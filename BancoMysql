@@ -1,0 +1,12 @@
+CREATE DATABASE BDcadastro;
+
+USE BDcadastro;
+
+CREATE TABLE info(
+	nome VARCHAR(20),
+    telefone VARCHAR(20),
+	matricula VARCHAR(20),
+	senha VARCHAR(20)
+);
+
+SELECT * FROM info;
