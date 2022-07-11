@@ -21,7 +21,7 @@ def banco():
         cursor = conexao.cursor()
 
         sql = "INSERT INTO info(nome,telefone,matricula, senha) VALUES (%s, %s, %s, %s)"
-        vals = (nome,telefone,matricula, senha) # devem ser passados como tupla
+        vals = (nome,telefone,matricula, senha)
 
         cursor.execute(sql, vals)
 
