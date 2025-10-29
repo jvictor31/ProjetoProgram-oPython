@@ -43,7 +43,7 @@ Para alinhar diretamente à função de Analista de Qualidade de Software, o pla
 4. **Documentar bugs / melhoria contínua** — demonstrando investigação, documentação de inconsistências e correção (uma atribuição da vaga).  
 5. **Automatizar processo de publicação / versão** (mesmo que simulado) para demonstrar entendimento de “publicação de novas versões dos sistemas” da vaga.
 
-## 🚀 Como Rodar  
+##  Como Rodar  
 ```bash
 # Clone este repositório  
 git clone https://github.com/jvictor31/ProjetoProgram-oPython.git  
